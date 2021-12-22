@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+
+# bin for llvm
+*.bc
+
 # Compiled Object files
 *.slo
 *.lo
